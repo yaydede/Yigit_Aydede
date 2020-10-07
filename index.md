@@ -16,29 +16,30 @@ I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halif
 * [**Summer School**](#head1239) 
 
 
-### <a name="head1234"></a>CV
+## <a name="head1234"></a>CV
 
 ([.html](https://raw.githack.com/yaydede/Credentials/main/CV2.html)) 
 ([.pdf](https://raw.githack.com/yaydede/Credentials/main/CV2.pdf)) 
 
 
-### <a name="head1235"></a>My Book (coming soon)
-([.html](https://raw.githack.com/yaydede/MLBook/main/index.html))
+## <a name="head1235"></a>My Book (coming soon)
+([Unedited content as of December 2019](https://raw.githack.com/yaydede/MLBook/main/index.html))
+
 
 ![](https://raw.githack.com/yaydede/MLBook/main/coverpage2.png)
 
-### <a name="head1236"></a>Research Portal on Machine Learning for Social and Health Policies
+## <a name="head1236"></a>Research Portal on Machine Learning for Social and Health Policies
 [Link to the website](https://sites.google.com/view/mlportal/home) 
     
 ![](https://raw.githack.com/yaydede/MLportal/main/MLportal.png)
   
 We are a group of researchers from Dalhousie and Saint Mary's Universities in Halifax, and collaborators all over the world.  We want to make machine learning methods more accessible in social and health science applications for better predictive and causal analyses.   We hope to provide a platform for statistical learning by enhancing collaboration between academic circles, policy makers, and private enterprises by disseminating the knowledge that helps others in their works, projects, course offerings, and private applications.
 
-### <a name="head1237"></a>Blog
+## <a name="head1237"></a>Blog
 TBA
-### <a name="head1238"></a>Teaching
+## <a name="head1238"></a>Teaching
 TBA
-### <a name="head1239"></a>Summer School
+## <a name="head1239"></a>Summer School
 TBA
 
 
