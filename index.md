@@ -27,10 +27,10 @@ I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halif
 My most recent articles are published IZA journals and online.  They can be found here at [Google Scholar](https://raw.githack.com/yaydede/MLportal/main/MLportal.png) 
 
 My latest paper, [Assortative preferences in choice of major](https://content.sciendo.com/view/journals/izajole/9/1/article-20200006.xml) is accpeted by [IZA Journal of Labor Economics](https://content.sciendo.com/view/journals/izajole/izajole-overview.xml).  It's the frist paper that documents field-of-study homogamy in Canada and quantifies the assortative preferences between parents and children. The paper attributes this persisting assortative tendency to the information asymmetry across alternative majors built on by parents’ educational backgrounds within families.  Here is an interesting table that shows the assortative preferences in their children’s choice of major:  
+  
+![](https://raw.githack.com/yaydede/Articles/main/FSA.png)
 
-![](https://raw.githack.com/yaydede/MLportal/main/MLportal.png)
-
-
+  
 ## <a name="head1235"></a>My Book (coming soon)
 ([Unedited content as of December 2019](https://raw.githack.com/yaydede/MLBook/main/index.html))
   
