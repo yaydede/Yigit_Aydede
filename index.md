@@ -24,9 +24,9 @@ I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halif
 ([.pdf](https://raw.githack.com/yaydede/Credentials/main/CV2.pdf)) 
   
 ## <a name="head1224"></a>My Recent Articles
-My most recent articles are published IZA journals and online.  They can be found here at [Google Scholar]https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) 
+My most recent articles are published IZA journals and online.  They can be found here at [Google Scholar](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) 
 
-My latest paper, [Assortative preferences in choice of major](https://content.sciendo.com/view/journals/izajole/9/1/article-20200006.xml) is accpeted by [IZA Journal of Labor Economics](https://content.sciendo.com/view/journals/izajole/izajole-overview.xml).  It's the first paper that documents the field-of-study homogamy in Canada and quantifies the assortative preferences between parents and children in choice of majors. The paper attributes this persisting assortative tendency to the information asymmetry across alternative majors built on by parents’ educational backgrounds within families.  Here is an interesting table that shows the assortative preferences in their children’s choice of major:  
+My latest paper, [Assortative preferences in choice of major](https://content.sciendo.com/view/journals/izajole/9/1/article-20200006.xml) is accepted by [IZA Journal of Labor Economics](https://content.sciendo.com/view/journals/izajole/izajole-overview.xml).  It's the first paper that documents the field-of-study homogamy in Canada and quantifies the assortative preferences between parents and children in choice of majors. The paper attributes this persisting assortative tendency to the information asymmetry across alternative majors built on by parents’ educational backgrounds within families.  Here is an interesting table that shows the assortative preferences in their children’s choice of major:  
   
 ![](https://raw.githack.com/yaydede/Articles/main/FSA.png)
 
