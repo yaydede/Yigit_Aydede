@@ -8,7 +8,7 @@ I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halif
 ([.pdf](https://raw.githack.com/yaydede/Credentials/main/CV2.pdf)). 
 
 ### My book (coming soon)
-![](
+![](https://raw.githack.com/yaydede/MLBook/main/coverpage2.png)
 
 
 ```markdown
