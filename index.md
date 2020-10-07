@@ -5,15 +5,15 @@ I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halif
 ### Content by Repo at `yaydede`
 * [**CV**](#head1234) 
   
-* [My Book](#head1235) 
+* [**My Book**](#head1235) 
   
-* [Research Portal on Machine Learning for Social and Health Policies](#head1236) 
+* [**Research Portal on Machine Learning for Social and Health Policies**](#head1236) 
   
-* [Blog](#head1237) 
+* [**Blog**](#head1237) 
   
-* [Teaching](#head1238) 
+* [**Teaching**](#head1238) 
   
-* [Summer School](#head1239) 
+* [**Summer School**](#head1239) 
 
 
 ### <a name="head1234"></a>CV
