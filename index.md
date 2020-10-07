@@ -4,23 +4,33 @@ I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halif
 
 ### Content by Repo at `yaydede`
 [CV](#head1234)
+[My Book](#head1235)
+[Research Portal on Machine Learning for Social and Health Policies](#head1236)
+[Blog](#head1237)
+[Teaching](#head1238)
+[Summer School](#head1239)
+
 
 ### <a name="head1234"></a>CV
-### <a name="head1235"></a>My Book
-### <a name="head1236"></a>Research Portal on Machine Learning for Social and Health Policies
-### <a name="head1237"></a>Blog
-### <a name="head1238"></a>Teaching
-### <a name="head1239"></a>Summer School
-### <a name="head1230"></a>Fun
-
-
-### CV
 
 ([.html](https://raw.githack.com/yaydede/Credentials/main/CV2.html)) 
 ([.pdf](https://raw.githack.com/yaydede/Credentials/main/CV2.pdf)) 
 
-### My book (coming soon)
+
+### <a name="head1235"></a>My Book (coming soon)
+
 ![](https://raw.githack.com/yaydede/MLBook/main/coverpage2.png)
+
+### <a name="head1236"></a>Research Portal on Machine Learning for Social and Health Policies
+TBA
+### <a name="head1237"></a>Blog
+TBA
+### <a name="head1238"></a>Teaching
+TBA
+### <a name="head1239"></a>Summer School
+TBA
+
+
 
 
 ```markdown
