@@ -2,6 +2,18 @@
 
 I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on genomics, unconventional data, chronic disease surveillance systems, and machine learning.  I teach data analytics courses at undergraduate and graduate levels. This Github page will contain all my work including chapters from my never ending book, Machine Learning, my blogs about anything "useful", and my teaching.
 
+### Content by Repo at `yaydede`
+[CV](#head1234)
+
+### <a name="head1234"></a>CV
+### <a name="head1235"></a>My Book
+### <a name="head1236"></a>Research Portal on Machine Learning for Social and Health Policies
+### <a name="head1237"></a>Blog
+### <a name="head1238"></a>Teaching
+### <a name="head1239"></a>Summer School
+### <a name="head1230"></a>Fun
+
+
 ### CV
 
 ([.html](https://raw.githack.com/yaydede/Credentials/main/CV2.html)) 
