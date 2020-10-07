@@ -27,7 +27,8 @@ I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halif
 ![](https://raw.githack.com/yaydede/MLBook/main/coverpage2.png)
 
 ### <a name="head1236"></a>Research Portal on Machine Learning for Social and Health Policies
-TBA
+We are a group of researchers from Dalhousie and Saint Mary's Universities in Halifax, and collaborators all over the world.  We want to make machine learning methods more accessible in social and health science applications for better predictive and causal analyses.   We hope to provide a platform for statistical learning by enhancing collaboration between academic circles, policy makers, and private enterprises by disseminating the knowledge that helps others in their works, projects, course offerings, and private applications.
+
 ### <a name="head1237"></a>Blog
 TBA
 ### <a name="head1238"></a>Teaching
