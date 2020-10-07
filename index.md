@@ -2,8 +2,7 @@
 
 I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on genomics, unconventional data, chronic disease surveillance systems, and machine learning.  I teach data analytics courses at undergraduate and graduate levels. This Github page will contain all my work including chapters from my never ending book, Machine Learning, my blogs about anything "useful", and my teaching.
 
-### Content by Repo at [yaydede](https://github.com/yaydede)
-(Live links: clik on them)
+## Content by Repo at [yaydede](https://github.com/yaydede)
 * [**CV**](#head1234)  
 * [**My Recent Articles**](#head1224). 
 * [**My Book**](#head1235)  
@@ -41,12 +40,10 @@ I made one section, I belive the most important section, a blog post.  You may c
 ![](https://raw.githack.com/yaydede/MLBook/main/coverpage2.png)
 
 ## <a name="head1236"></a>Research Portal on Machine Learning for Social and Health Policies
-[Link to the website](https://sites.google.com/view/mlportal/home) 
-    
+[Link to the website](https://sites.google.com/view/mlportal/home).  I am one of the three founders of this educational hub. Since 2018, we had many research projects, in collaboration with local institutions.  Recently, we had a 3-day summer school completly non-commercial.  We had more than 50 scientists enrolled in the course.  Following the course we held a 2-day webinar, **Machine Learning for Economists and Applied Social Scientists** with 10 well known speakers and more than 170 participants.  All weibar series are available on our website.  The summer school metarial will be availbale at the website and here in my Github repository very soon.  
+      
 ![](https://raw.githack.com/yaydede/MLportal/main/MLportal.png)
   
-We are a group of researchers from Dalhousie and Saint Mary's Universities in Halifax, and collaborators all over the world.  We want to make machine learning methods more accessible in social and health science applications for better predictive and causal analyses.   We hope to provide a platform for statistical learning by enhancing collaboration between academic circles, policy makers, and private enterprises by disseminating the knowledge that helps others in their works, projects, course offerings, and private applications.
-
 ## <a name="head1237"></a>Blog
 TBA
 ## <a name="head1238"></a>Teaching
