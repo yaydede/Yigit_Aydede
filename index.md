@@ -23,7 +23,7 @@ I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halif
 
 
 ### <a name="head1235"></a>My Book (coming soon)
-([.html](https://raw.githack.com/yaydede/MLBook/main/index.html)
+([.html](https://raw.githack.com/yaydede/MLBook/main/index.html))
 
 ![](https://raw.githack.com/yaydede/MLBook/main/coverpage2.png)
 
