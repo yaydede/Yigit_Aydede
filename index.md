@@ -30,7 +30,8 @@ My latest paper, [Assortative preferences in choice of major](https://content.sc
   
 ![](https://raw.githack.com/yaydede/Articles/main/FSA.png)
 
-  
+The paper uses a more disaggregated classification in majors than this table uses.  However, even this table shows the attraction of children to their parents’ majors evaluated by the observed distribution of all possible matches between parents and children normalized between 0 and 1.  
+
 ## <a name="head1235"></a>My Book (coming soon)
 ([Unedited content as of December 2019](https://raw.githack.com/yaydede/MLBook/main/index.html))
   
