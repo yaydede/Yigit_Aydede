@@ -47,41 +47,15 @@ I made one section, I belive the most important section, a blog post.  You may c
 I am one of the three founders of this educational hub. Since 2018, we had many research projects, mostly in collaboration with local institutions.  Recently, we had a 3-day summer school completely non-commercial.  We had more than 50 scientists enrolled in the course.  Following the course we held a 2-day webinar, **Machine Learning for Economists and Applied Social Scientists** with 10 well-known speakers and more than 170 participants.  All webinar video series are available on our website.  The summer school material will also be available at the website and here, in my Github repository very soon.  
       
 
-  
 ## <a name="head1237"></a>Blog
-TBA
+Coming soon...
+  
 ## <a name="head1238"></a>Teaching
-TBA
+Coming soon...
+  
 ## <a name="head1239"></a>Summer School
-TBA
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaydede/Yigit_Aydede/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+Coming soon...
+  
 ### Support or Contact
 
 Everything in my repo's is open source and can be used scientific purposes. I appreciate if you properly cite this site or my work.  If you have any question or commnet please contact me at <yigit.aydede@smu.ca>.
