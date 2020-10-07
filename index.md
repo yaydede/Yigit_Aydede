@@ -52,6 +52,10 @@ I am one of the three founders of this educational hub. Since 2018, we had many 
   
 [Ontario COVID-19 EDA](https://raw.githack.com/yaydede/Blog_posts/main/EDA.html)
 
+[A Matrix Profile Analysis for COVID-19](https://raw.githack.com/yaydede/Blog_posts/main/MPA.html)
+
+
+
 
   
 ## <a name="head1238"></a>Teaching
