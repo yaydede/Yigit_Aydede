@@ -84,4 +84,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Everything in my repo's is open source and can be used scientific purposes. I appreciate if you properly cite this site or my work.  If you have any question or commnet please contact me at <yigit.aydede@smu.ca>.
