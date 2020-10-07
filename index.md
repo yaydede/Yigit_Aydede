@@ -48,7 +48,7 @@ I am one of the three founders of this educational hub. Since 2018, we had many 
       
 
 ## <a name="head1237"></a>Blog
-Coming soon...
+[A Formal Look: Prediction, Estimation, Variance-Bias Tradeoff, and Overfitting](https://raw.githack.com/yaydede/Blog_posts/main/Lecture3aa.html)
   
 ## <a name="head1238"></a>Teaching
 Coming soon...
