@@ -27,7 +27,7 @@ I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halif
   
 This book is collection of my lecture and lab notes.  It will be online and free.  I will accept donations for pdf and downloadable versions.  It is designed for business students in general and economics/statistics students in particular.  It's also useful for computer science students as they learn statistical backgrounds of self-learning algorithms.  I've used the chapters of this book in the 3-day [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) where most participants were academic economists.  So it is also beneficial for those who want to "link" machine learning to econometrics as a social scientists or applied economist. 
   
-The latest version of my book has been copyedited and contains additional topics such as, balancing with classification problems, penalized regresssions, time-series forecasting with machine learning, recursive neural network applications, LSTM, feature engineering, random forest with time-series data.  As you can expect, the book is growing in its content every other month.  
+The latest version of my book has been copyedited and contains additional topics such as, **rebalancing data in classification problems, penalized regresssions, time-series forecasting with machine learning, recursive neural network applications, LSTM, feature engineering, random forest with time-series data**.  As you can expect, the book is growing in its content every other month.  
 
 I am realy hoping that the book will be available before December 2020.  If you need sections from my book, please let me know.
 
