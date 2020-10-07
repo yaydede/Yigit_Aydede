@@ -40,9 +40,13 @@ I made one section, I belive the most important section, a blog post.  You may c
 ![](https://raw.githack.com/yaydede/MLBook/main/coverpage2.png)
 
 ## <a name="head1236"></a>Research Portal on Machine Learning for Social and Health Policies
-[Link to the website](https://sites.google.com/view/mlportal/home).  I am one of the three founders of this educational hub. Since 2018, we had many research projects, in collaboration with local institutions.  Recently, we had a 3-day summer school completly non-commercial.  We had more than 50 scientists enrolled in the course.  Following the course we held a 2-day webinar, **Machine Learning for Economists and Applied Social Scientists** with 10 well known speakers and more than 170 participants.  All weibar series are available on our website.  The summer school metarial will be availbale at the website and here in my Github repository very soon.  
-      
 ![](https://raw.githack.com/yaydede/MLportal/main/MLportal.png)
+  
+[Link to the website](https://sites.google.com/view/mlportal/home).
+  
+I am one of the three founders of this educational hub. Since 2018, we had many research projects, in collaboration with local institutions.  Recently, we had a 3-day summer school completly non-commercial.  We had more than 50 scientists enrolled in the course.  Following the course we held a 2-day webinar, **Machine Learning for Economists and Applied Social Scientists** with 10 well known speakers and more than 170 participants.  All weibar series are available on our website.  The summer school metarial will also be available at the website and here, in my Github repository very soon.  
+      
+
   
 ## <a name="head1237"></a>Blog
 TBA
