@@ -6,8 +6,8 @@ You can use the [editor on GitHub](https://github.com/yaydede/Yigit_Aydede/edit/
 
 ### CV
 
-[.html](https://raw.githack.com/yaydede/Credentials/main/CV2.html). 
-[.pdf](https://raw.githack.com/yaydede/Credentials/main/CV2.pdf). 
+([.html](https://raw.githack.com/yaydede/Credentials/main/CV2.html)). 
+([.pdf](https://raw.githack.com/yaydede/Credentials/main/CV2.pdf)). 
 
 
 ```markdown
