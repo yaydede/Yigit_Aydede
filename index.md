@@ -24,8 +24,11 @@ I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halif
 
 ## <a name="head1235"></a>My Book (coming soon)
 ([Unedited content as of December 2019](https://raw.githack.com/yaydede/MLBook/main/index.html))
-
-
+  
+This book is collection of my lecture and lab notes.  It will be online and free.  I will accept donations for pdf and downloadanle versions.  It is designed for business students in general and economics/statistics students in particular.  It's also useful for computer science students as they learn statistical backgrounds in self-learning algorithms.  I've used the chapters from the book in the 3-day [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) where most participants were academic economists.  So it is also beneficial to "translate" machine learning and link it to econometrics for social scientists and applied economists. 
+  
+The latest version of my book has been copyedited and contains additional topics such as, balancing with classification problems, penalized regresssions, time-series forecasting with machine learning, recursive neural network applications, LSTM, feature engineering, random forest with time-series data.  I am expecting the book will be availbale before December 2020.  If you need sections from my book, please let me know. 
+  
 ![](https://raw.githack.com/yaydede/MLBook/main/coverpage2.png)
 
 ## <a name="head1236"></a>Research Portal on Machine Learning for Social and Health Policies
