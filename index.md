@@ -54,8 +54,7 @@ I am one of the three founders of this educational hub. Since 2018, we had many 
 
 [A Matrix Profile Analysis for COVID-19](https://raw.githack.com/yaydede/Blog_posts/main/MPA.html)
 
-
-
+[Predicting with Panel Data: Trainable Fixed Effects Model for COVID-19](https://raw.githack.com/yaydede/Blog_posts/main/PARMOD_v3.html)
 
   
 ## <a name="head1238"></a>Teaching
