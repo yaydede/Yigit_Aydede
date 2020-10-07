@@ -1,11 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Repository
+
+I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on genomics, unconventional data, chronic disease surveillance systems, and machine learning.  I teach data analytics courses at undergraduate and graduate levels. This Github page will contain all my work including chapters from my never ending book, Machine Learning, my blogs about anything "useful", and my teaching.
 
 You can use the [editor on GitHub](https://github.com/yaydede/Yigit_Aydede/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CV
 
-### Markdown
-
+[.html](
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
