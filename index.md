@@ -62,6 +62,8 @@ I am one of the three founders of this educational hub. Since 2018, we had many 
   
 ## Teaching
 ***
+I teach my quantitative courses by using mostly R.  In each chapter/subject in my Econometrics course, a simulation exercise is required, which is similar to [Principle of Econometrics, Carter Hill et al.](https://www.wiley.com/en-ca/Principles+of+Econometrics%2C+5th+Edition-p-9781119320944).  I provide my simulations in four languages: R, C++, Python, and Stata.  All these scripts will be available soon in these repositories here.  In Econometrics, the focus is on "causality" based on replications of major papers/methods, while I teach forecasing and prediction in my Machine Learning course.      
+
 - MFIN 6603 Applied Statistics and Data Analysis. 
 - MFIN 6609 Econometrics and Business Forecasting. 
 - ECON 4403 Econometrics. 
