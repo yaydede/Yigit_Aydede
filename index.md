@@ -69,7 +69,7 @@ I teach my quantitative courses by using mostly R.  In each chapter/subject in m
 - MFIN 6603 Applied Statistics and Data Analysis. 
 - MFIN 6609 Econometrics and Business Forecasting. 
 - ECON 4403 Econometrics. 
-- ECON 4838 Introduction to Applied Machine Learning with R. 
+- ECON 4838 [Introduction to Applied Machine Learning with R.](https://raw.githack.com/yaydede/Teaching/main/Syllabus20.pdf) 
 - ECON 3302 Mathematical Economics. 
 - ECON 3319 Public Finance. 
 - ECON 4498 Research Seminar. 
