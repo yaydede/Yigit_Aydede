@@ -7,12 +7,12 @@ I am an associate professor in the Department of Economics at [Saint Mary's Univ
 - Currently, I am serving at [Reimagining the Future for Nova Scotians](https://www.dal.ca/faculty/management/news-events/reimagine-ns.html) where academic and community experts are put together with access to the best research and data available and see what opportunities are possible for Nova Scotia.
 - I have developed and taught a course, "Introduction to Applied Machine Learning with R" in Winter 2020.  It is the first and only machine learning course in the [Sobey School of Business](https://www.smu.ca/academics/sobey/) that also has programming Labs. Moreover, I am at the program development committee of Master of Business Analytics (MBAN), where I will teach "MBAN 5610 Artificial Intelligence & Machine Learning".  
 - My application for the promotion to Full Professorship is under review.
-***
+
 ## CV
 ***
 ([.html](https://raw.githack.com/yaydede/Credentials/main/CV2.html)) 
 ([.pdf](https://raw.githack.com/yaydede/Credentials/main/CV2.pdf)) 
-***  
+  
 ## My Recent Articles
 ***
 My most recent articles are published in [IZA](https://www.iza.org) journals and online.  They can be found here at my [Google Scholar](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site.  
@@ -23,7 +23,8 @@ My latest paper, [Assortative preferences in choice of major](https://content.sc
 
 The paper uses a more disaggregated classification of majors than the table.  However, even this table shows the attraction of children to their parents’ majors evaluated by the observed distribution of all possible matches between parents and children normalized between 0 and 1.  
 
-## <a name="head1235"></a>My Book (coming soon)
+## My Book (coming soon)
+***
 ([Unedited content as of December 2019](https://raw.githack.com/yaydede/MLBook/main/index.html))
   
 This book is a collection of my lecture and lab notes.  It is designed for business students in general and economics/statistics students in particular.  It's also useful for computer science students as they learn statistical backgrounds of self-learning algorithms.  I've used the chapters of this book in the 3-day [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) where most participants were academic economists.  So it is also beneficial for those who want to "link" machine learning to econometrics as a social scientist or an applied economist. 
@@ -36,7 +37,8 @@ I made one section, I belive the most important section, a blog post.  You may c
   
 ![](https://raw.githack.com/yaydede/MLBook/main/coverpage2.png)
 
-## <a name="head1236"></a>Research Portal on Machine Learning for Social and Health Policies
+## Research Portal on Machine Learning for Social and Health Policies
+***
 ![](https://raw.githack.com/yaydede/MLportal/main/MLportal.png)
   
 [Link to the website](https://sites.google.com/view/mlportal/home).
@@ -44,15 +46,16 @@ I made one section, I belive the most important section, a blog post.  You may c
 I am one of the three founders of this educational hub. Since 2018, we had many research projects, mostly in collaboration with local institutions.  Recently, we had a 3-day summer school completely non-commercial.  We had more than 50 scientists enrolled in the course.  Following the course we held a 2-day webinar, **Machine Learning for Economists and Applied Social Scientists** with 10 well-known speakers and more than 170 participants.  All webinar video series are available on our website.  The summer school material will also be available at the website and here, in my Github repository very soon.  
       
 
-## <a name="head1237"></a>Blog
+## Blog
+***
 - [A Formal Look: Prediction, Estimation, Variance-Bias Tradeoff, and Overfitting](https://raw.githack.com/yaydede/Blog_posts/main/Lecture3aa.html).  
 - [Ontario COVID-19 EDA](https://raw.githack.com/yaydede/Blog_posts/main/EDA.html). 
 - [A Matrix Profile Analysis for COVID-19](https://raw.githack.com/yaydede/Blog_posts/main/MPA.html). 
 - [Predicting with Panel Data: Trainable Fixed Effects Models for COVID-19](https://raw.githack.com/yaydede/Blog_posts/main/PARMOD_v3.html). 
 
   
-## <a name="head1238"></a>Teaching
-
+## Teaching
+***
 - MFIN 6603 Applied Statistics and Data Analysis. 
 - MFIN 6609 Econometrics and Business Forecasting. 
 - ECON 4403 Econometrics. 
@@ -64,6 +67,7 @@ I am one of the three founders of this educational hub. Since 2018, we had many 
 Details are coming soon...
   
 ## <a name="head1239"></a>Summer School
+***
 Coming soon...
   
 #### Support or Contact
