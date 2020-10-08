@@ -25,11 +25,11 @@ The paper uses a more disaggregated classification of majors than the table.  Ho
 ## <a name="head1235"></a>My Book (coming soon)
 ([Unedited content as of December 2019](https://raw.githack.com/yaydede/MLBook/main/index.html))
   
-This book is a collection of my lecture and lab notes.  It will be online and free.  I will accept donations for pdf and downloadable versions.  It is designed for business students in general and economics/statistics students in particular.  It's also useful for computer science students as they learn statistical backgrounds of self-learning algorithms.  I've used the chapters of this book in the 3-day [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) where most participants were academic economists.  So it is also beneficial for those who want to "link" machine learning to econometrics as a social scientist or an applied economist. 
+This book is a collection of my lecture and lab notes.  It is designed for business students in general and economics/statistics students in particular.  It's also useful for computer science students as they learn statistical backgrounds of self-learning algorithms.  I've used the chapters of this book in the 3-day [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) where most participants were academic economists.  So it is also beneficial for those who want to "link" machine learning to econometrics as a social scientist or an applied economist. 
   
 The latest version of my book is being copyedited currently and contains additional topics such as, **rebalancing data in classification problems, penalized regresssions, time-series forecasting with machine learning, recursive neural network applications, LSTM, feature engineering, random forest with time-series data**.  As you can expect, the book is growing in its content every other month.  
 
-I am realy hoping that the book will be available before December 2020.  If you need sections from my book, please let me know.
+I am realy hoping that the book will be available before December 2020.  If you need sections from my book, please let me know. It will be online and free.  I will accept donations for pdf and downloadable versions. 
 
 I made one section, I belive the most important section, a blog post.  You may check it if you want to see the difference of the book from other "100-page ML" books.  
   
