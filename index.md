@@ -81,14 +81,17 @@ The Online [Summer School](https://sites.google.com/view/mlportal/online-events?
 The course combines both real data and theoretical background to enable researchers to gain practical experience in analysing a wide variety of data and econometric problems. In this course, participants will learn the fundamentals of machine learning and their implementation, recalling the fundamental statistical concepts at the heart of modern learning techniques. Participants will learn the differences between causal and predictive analyses and their relative merits, as well as their use in applied social sciences.
 
 **July 20, Monday**
+  
 - Session 1 (10am - 12:30pm): Causal vs. Predictive Models, Translation of Concepts Used in Machine Learning for Social Scientists - Mutlu Yuksel. 
 - Session 2 (2pm - 4:30pm): Overfitting, Model Selection, and Variance-Bias Trade-Off. - Yigit Aydede. 
 - R-Session (5:30pm - 7pm): Additional training in R - voluntary - Weiyi Li. 
 **July 21, Tuesday**
+  
 - Session 1 (10am- 12:30pm): Regressions and Linear Classifiers, Nonparameteric Models, kNN. - Yigit Aydede. 
 - Session 2 (2pm -4:30pm): Grid Search with Cross-Validation and Bootstrapping. - Yigit Aydede. 
 - R-Session (5:30pm - 7pm): Additional training in R - voluntary - Weiyi Li. 
 **July 22, Wednesday**
+  
 - Session 1 (10am- 12:30pm): Classification and Regression Trees, Random Forests, Boosting, Bagging. - Yigit Aydede. 
 - Session 2 (2pm -4:30pm): Penalized Regression Models: Lasso, Ridge, Elastics Net, and Adaptive Lasso. - Yigit Aydede. 
 - R-Session (5:30pm - 7pm): Training in Data Revisions and Now-casting of macroeconomics series - Andrea Guisto. 
