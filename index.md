@@ -40,11 +40,10 @@ I made one section, I belive the most important section, a blog post.  You may c
 ## Research Portal on Machine Learning for Social and Health Policies
 ***
 ![](https://raw.githack.com/yaydede/MLportal/main/MLportal.png)
-  
-[Link to the website](https://sites.google.com/view/mlportal/home).
-  
+
 I am one of the three founders of this educational hub. Since 2018, we had many research projects, mostly in collaboration with local institutions.  Recently, we had a 3-day summer school completely non-commercial.  We had more than 50 scientists enrolled in the course.  Following the course we held a 2-day webinar, **Machine Learning for Economists and Applied Social Scientists** with 10 well-known speakers and more than 170 participants.  All webinar video series are available on our website.  The summer school material will also be available at the website and here, in my Github repository very soon.  
-      
+
+[Link to the website](https://sites.google.com/view/mlportal/home).      
 
 ## Blog
 ***
