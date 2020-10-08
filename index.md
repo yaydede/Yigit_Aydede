@@ -66,7 +66,7 @@ I am one of the three founders of this educational hub. Since 2018, we had many 
 
 Details are coming soon...
   
-## <a name="head1239"></a>Summer School
+## Summer School
 ***
 Coming soon...
   
