@@ -47,8 +47,9 @@ I made one section, I belive the most important section, a blog post.  You may c
 
 ## Research Portal on Machine Learning for Social and Health Policies
 ***
-I am one of the three founders of this educational hub. Since 2018, we had many research projects, mostly in collaboration with local institutions.  Recently, we had a 3-day summer school completely non-commercial.  We had more than 50 scientists enrolled in the course.  Following the course we held a 2-day webinar, **Machine Learning for Economists and Applied Social Scientists** with 10 well-known speakers and more than 170 participants.  All webinar video series are available on our website.  The summer school material will also be available at the website and here, in my Github repository very soon.  
-
+In 2018, in collaboration with two colleagues, I co-founded an educational research center to promote research and public education on social and health policies with machine learning applications, [Research Portal on Machine Learning for Social and Health Policy](http://www.ml-portal.com/). Under the umbrella of this research portal, we currently have ten researchers actively working on subjects that range from the prediction of chronic diseases using better surveillance
+systems to issues related to the design of a better selection process for immigration policies by providing policy makers with a recommender system.
+  
 [Link to the website](https://sites.google.com/view/mlportal/home).      
 ![](https://raw.githack.com/yaydede/MLportal/main/MLportal.png)
   
