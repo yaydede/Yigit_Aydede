@@ -52,13 +52,13 @@ I am one of the three founders of this educational hub. Since 2018, we had many 
   
 ## <a name="head1238"></a>Teaching
 
-MFIN 6603 Applied Statistics and Data Analysis. 
-MFIN 6609 Econometrics and Business Forecasting. 
-ECON 4403 Econometrics. 
-ECON 4838 Introduction to Applied Machine Learning with R. 
-ECON 3302 Mathematical Economics. 
-ECON 3319 Public Finance. 
-ECON 4498 Research Seminar. 
+- MFIN 6603 Applied Statistics and Data Analysis. 
+- MFIN 6609 Econometrics and Business Forecasting. 
+- ECON 4403 Econometrics. 
+- ECON 4838 Introduction to Applied Machine Learning with R. 
+- ECON 3302 Mathematical Economics. 
+- ECON 3319 Public Finance. 
+- ECON 4498 Research Seminar. 
 
 Details are coming soon...
   
