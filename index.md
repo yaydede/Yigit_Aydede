@@ -99,5 +99,5 @@ The video lectures, scipts, presentations, and other course documents will be av
 
   
 #### Support or Contact
-
+***
 Everything in this repository is open source and can be used for scientific purposes. I appreciate if you properly cite this site or my work.  If you have any question or commnet please contact me at <yigit.aydede@smu.ca>.
