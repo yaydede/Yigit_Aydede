@@ -1,4 +1,4 @@
-## Main
+## About
 ***
 ![me](https://raw.githack.com/yaydede/Yigit_Aydede/main/Me.png)
   
