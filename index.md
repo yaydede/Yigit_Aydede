@@ -18,13 +18,13 @@ I am an associate professor in the Department of Economics at [Saint Mary's Univ
   
 ## My Recent Articles
 ***
-My most recent articles are published in [IZA](https://www.iza.org) journals and online.  They can be found here at my [Google Scholar](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site.  
-
 My latest paper, [Assortative preferences in choice of major](https://content.sciendo.com/view/journals/izajole/9/1/article-20200006.xml) is accepted by [IZA Journal of Labor Economics](https://content.sciendo.com/view/journals/izajole/izajole-overview.xml).  It's the first paper that documents the field-of-study homogamy in Canada and quantifies the assortative preferences between parents and children in choice of majors. The paper attributes this persisting assortative tendency to the information asymmetry across alternative majors built on by parents’ educational backgrounds within families.  Here is an interesting table that shows the assortative preferences in their children’s choice of major:  
   
 ![](https://raw.githack.com/yaydede/Articles/main/FSA.png)
 
 The paper uses a more disaggregated classification of majors than the table.  However, even this table shows the attraction of children to their parents’ majors evaluated by the observed distribution of all possible matches between parents and children normalized between 0 and 1.  
+  
+My most recent articles are published in [IZA](https://www.iza.org) journals and online.  They can be found here at my [Google Scholar](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site.  
 
 - [Asymmetric Information and the Discount on Foreign-Acquired Degrees in Canada](https://content.sciendo.com/view/journals/izajodm/10/1/article-20190002.xml), 2019 IZA Journal of Development and Migration
 - [Is the lower return to immigrants’ foreign schooling a postarrival problem in Canada?](https://link.springer.com/article/10.1186/s40176-016-0076-9), 2017 IZA Journal of Migration
