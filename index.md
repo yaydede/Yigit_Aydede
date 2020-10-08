@@ -1,5 +1,6 @@
 ## Main
 ***
+![me](https://raw.githack.com/yaydede/Yigit_Aydede/main/Me.png)
 I am an associate professor in the Department of Economics at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on genomics, unconventional data, chronic disease surveillance systems, and machine learning.  I teach data analytics courses at undergraduate and graduate levels. This Github page summarizes all my work including chapters from my never ending book, Machine Learning, my blogs about anything "useful", and my teaching.
   
 - I am a founder member of [Research Portal on Machine Learning for Social and Health Policies](https://sites.google.com/view/mlportal/home), where we have organized a 3-day online [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0), **Machine Learning for Economists and Applied Social Scientists**, between  July 20 and 22, followed by a 2-day [Webinar](https://sites.google.com/view/mlportal/online-events/webinar-series?authuser=0) series. We had more than 50 paying students all faculty members at the Summer School and more than 170 participants in the webinar series.
