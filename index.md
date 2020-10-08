@@ -1,6 +1,6 @@
 I am a professor at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on genomics, unconventional data, chronic disease surveillance systems, and machine learning.  I teach data analytics courses at undergraduate and graduate levels. This Github page will contain all my work including chapters from my never ending book, Machine Learning, my blogs about anything "useful", and my teaching.
 
-## <a name="head1234"></a>CV
+## **CV**
 
 ([.html](https://raw.githack.com/yaydede/Credentials/main/CV2.html)) 
 ([.pdf](https://raw.githack.com/yaydede/Credentials/main/CV2.pdf)) 
@@ -12,7 +12,7 @@ My latest paper, [Assortative preferences in choice of major](https://content.sc
   
 ![](https://raw.githack.com/yaydede/Articles/main/FSA.png)
 
-The paper uses a more disaggregated classification in majors than this table uses.  However, even this table shows the attraction of children to their parents’ majors evaluated by the observed distribution of all possible matches between parents and children normalized between 0 and 1.  
+The paper uses a more disaggregated classification of majors than the table.  However, even this table shows the attraction of children to their parents’ majors evaluated by the observed distribution of all possible matches between parents and children normalized between 0 and 1.  
 
 ## <a name="head1235"></a>My Book (coming soon)
 ([Unedited content as of December 2019](https://raw.githack.com/yaydede/MLBook/main/index.html))
