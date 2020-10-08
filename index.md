@@ -7,13 +7,14 @@ I am an associate professor in the Department of Economics at [Saint Mary's Univ
 - Currently, I am serving at [Reimagining the Future for Nova Scotians](https://www.dal.ca/faculty/management/news-events/reimagine-ns.html) where academic and community experts are put together with access to the best research and data available and see what opportunities are possible for Nova Scotia.
 - I have developed and taught a course, "Introduction to Applied Machine Learning with R" in Winter 2020.  It is the first and only machine learning course in the [Sobey School of Business](https://www.smu.ca/academics/sobey/) that also has programming Labs. Moreover, I am at the program development committee of Master of Business Analytics (MBAN), where I will teach "MBAN 5610 Artificial Intelligence & Machine Learning".  
 - My application for the promotion to Full Professorship is under review.
-
+***
 ## CV
-
+***
 ([.html](https://raw.githack.com/yaydede/Credentials/main/CV2.html)) 
 ([.pdf](https://raw.githack.com/yaydede/Credentials/main/CV2.pdf)) 
-  
-## <a name="head1224"></a>My Recent Articles
+***  
+## My Recent Articles
+***
 My most recent articles are published in [IZA](https://www.iza.org) journals and online.  They can be found here at my [Google Scholar](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site.  
 
 My latest paper, [Assortative preferences in choice of major](https://content.sciendo.com/view/journals/izajole/9/1/article-20200006.xml) is accepted by [IZA Journal of Labor Economics](https://content.sciendo.com/view/journals/izajole/izajole-overview.xml).  It's the first paper that documents the field-of-study homogamy in Canada and quantifies the assortative preferences between parents and children in choice of majors. The paper attributes this persisting assortative tendency to the information asymmetry across alternative majors built on by parents’ educational backgrounds within families.  Here is an interesting table that shows the assortative preferences in their children’s choice of major:  
