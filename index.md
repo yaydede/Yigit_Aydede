@@ -25,6 +25,11 @@ My latest paper, [Assortative preferences in choice of major](https://content.sc
 
 The paper uses a more disaggregated classification of majors than the table.  However, even this table shows the attraction of children to their parents’ majors evaluated by the observed distribution of all possible matches between parents and children normalized between 0 and 1.  
 
+- [Asymmetric Information and the Discount on Foreign-Acquired Degrees in Canada](https://content.sciendo.com/view/journals/izajodm/10/1/article-20190002.xml), 2019 IZA Journal of Development and Migration
+- [Is the lower return to immigrants’ foreign schooling a postarrival problem in Canada?](https://link.springer.com/article/10.1186/s40176-016-0076-9), 2017 IZA Journal of Migration
+- [The cost of immigrants’ occupational mismatch and the effectiveness of postarrival policies in Canada](https://link.springer.com/article/10.1186/s40176-016-0057-z), 2016  IZA Journal of Migration
+
+
 ## My Book (coming soon)
 ***
 ([Unedited content as of December 2019](https://raw.githack.com/yaydede/MLBook/main/index.html))
