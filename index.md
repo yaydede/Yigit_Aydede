@@ -44,17 +44,23 @@ I am one of the three founders of this educational hub. Since 2018, we had many 
       
 
 ## <a name="head1237"></a>Blog
-[A Formal Look: Prediction, Estimation, Variance-Bias Tradeoff, and Overfitting](https://raw.githack.com/yaydede/Blog_posts/main/Lecture3aa.html)
-  
-[Ontario COVID-19 EDA](https://raw.githack.com/yaydede/Blog_posts/main/EDA.html)
-
-[A Matrix Profile Analysis for COVID-19](https://raw.githack.com/yaydede/Blog_posts/main/MPA.html)
-
-[Predicting with Panel Data: Trainable Fixed Effects Models for COVID-19](https://raw.githack.com/yaydede/Blog_posts/main/PARMOD_v3.html)
+- [A Formal Look: Prediction, Estimation, Variance-Bias Tradeoff, and Overfitting](https://raw.githack.com/yaydede/Blog_posts/main/Lecture3aa.html).  
+- [Ontario COVID-19 EDA](https://raw.githack.com/yaydede/Blog_posts/main/EDA.html). 
+- [A Matrix Profile Analysis for COVID-19](https://raw.githack.com/yaydede/Blog_posts/main/MPA.html). 
+- [Predicting with Panel Data: Trainable Fixed Effects Models for COVID-19](https://raw.githack.com/yaydede/Blog_posts/main/PARMOD_v3.html). 
 
   
 ## <a name="head1238"></a>Teaching
-Coming soon...
+
+MFIN 6603 Applied Statistics and Data Analysis. 
+MFIN 6609 Econometrics and Business Forecasting. 
+ECON 4403 Econometrics. 
+ECON 4838 Introduction to Applied Machine Learning with R. 
+ECON 3302 Mathematical Economics. 
+ECON 3319 Public Finance. 
+ECON 4498 Research Seminar. 
+
+Details are coming soon...
   
 ## <a name="head1239"></a>Summer School
 Coming soon...
