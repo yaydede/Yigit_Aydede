@@ -42,7 +42,7 @@ The latest version of my book is being copyedited currently and contains additio
 
 I am realy hoping that the book will be available before December 2020.  If you need sections from my book, please let me know. It will be online and free.  I will accept donations for pdf and downloadable versions. 
 
-I made one section, I belive the most important section, a blog post.  You may check it if you want to see the difference of the book from other "100-page ML" books.  
+I made one (unedited) section available as a blog post here and below, [A Formal Look: Prediction, Estimation, Variance-Bias Tradeoff, and Overfitting](https://raw.githack.com/yaydede/Blog_posts/main/Lecture3aa.html). I belive it is the most important section and, if you want to see the difference of the book from other "100-page ML" books, you may want to check it.  
   
 ![](https://raw.githack.com/yaydede/MLBook/main/coverpage2.png)
 
