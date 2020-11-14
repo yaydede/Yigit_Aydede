@@ -60,7 +60,8 @@ systems to issues related to the design of a better selection process for immigr
 - [Ontario COVID-19 EDA](https://raw.githack.com/yaydede/Blog_posts/main/EDA.html). 
 - [A Matrix Profile Analysis for COVID-19](https://raw.githack.com/yaydede/Blog_posts/main/MPA.html). 
 - [Predicting with Panel Data: Trainable Fixed Effects Models for COVID-19](https://raw.githack.com/yaydede/Blog_posts/main/PARMOD_v3.html). 
-- [Reimagine Nova Scotia: Learn and Work](https://raw.githack.com/yaydede/Blog_posts/main/learnandwork.pdf).  
+- [Reimagine Nova Scotia: Learn and Work](https://raw.githack.com/yaydede/Blog_posts/main/learnandwork.pdf). 
+- [Conventional Time Series EDA and ETS Forecasting for Ontario COVID-19 Epi Curves](Conventional Time Series EDA and ETS Forecasting for Ontario COVID-19 Epi Curves).  
   
 ## Teaching
 ***
