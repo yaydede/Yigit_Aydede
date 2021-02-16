@@ -56,7 +56,7 @@ systems to issues related to the design of a better selection process for immigr
   
 ## Blog
 ***
-- [How Effective Mobility Restrictions on COVID-19 Spread: A New Nonparametric Approach with Application on Montreal and Toronto[
+- [How Effective Mobility Restrictions on COVID-19 Spread: A New Nonparametric Approach with Application on Montreal and Toronto](https://raw.githack.com/yaydede/Blog_posts/main/Quebecmob.html)
 - [Identifying the Predictors of COVID-19 Spread by Ensemble Learning](https://raw.githack.com/yaydede/Blog_posts/main/Tree_v7.html)
 - [A Formal Look: Prediction, Estimation, Variance-Bias Tradeoff, and Overfitting](https://raw.githack.com/yaydede/Blog_posts/main/Lecture3aa.html).  
 - [Ontario COVID-19 EDA](https://raw.githack.com/yaydede/Blog_posts/main/EDA.html). 
