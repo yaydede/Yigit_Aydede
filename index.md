@@ -58,6 +58,8 @@ systems to issues related to the design of a better selection process for immigr
 ***
 [![](https://cdn.mathpix.com/snip/images/T_4-srtunH5UwHhy6nP-L5ktO1DSoUm61U-hGWO8LW0.original.fullsize.png)](https://raw.githack.com/yaydede/Articles/main/Presentation1.pdf)
 - [Working Draft - Mobility and COVID-19 Spread: Solving the Puzzle - A New Nonparametric Approach with Applications on Montreal, Toronto, and NYC](https://raw.githack.com/yaydede/Blog_posts/main/paper_v12.html)
+- [Causal Predictors: What can be predicted from a national health survey? Is cancer one of them?](
+
 - [Identifying the Predictors of COVID-19 Spread by Ensemble Learning](https://raw.githack.com/yaydede/Blog_posts/main/Tree_v7.html)
 - [A Formal Look: Prediction, Estimation, Variance-Bias Tradeoff, and Overfitting](https://raw.githack.com/yaydede/Blog_posts/main/Lecture3aa.html).  
 - [Ontario COVID-19 EDA](https://raw.githack.com/yaydede/Blog_posts/main/EDA.html). 
