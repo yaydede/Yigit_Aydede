@@ -41,7 +41,7 @@ This book is a collection of my lecture and lab notes.  It is designed for busin
   
 The latest version of my book is being copyedited currently and contains additional topics such as, **rebalancing data in classification problems, penalized regresssions, time-series forecasting with machine learning, recursive neural network applications, LSTM, feature engineering, random forest with time-series data**.  As you can expect, the book is growing in its content every other month.  
 
-I am realy hoping that the book will be available before December 2020.  If you need sections from my book, please let me know. It will be online and free.  I will accept donations for pdf and downloadable versions. 
+I am realy hoping that the book will be available before December 2021.  If you need sections from my book, please let me know. It will be online and free.  I will accept donations for pdf and downloadable versions. 
 
 I made one (unedited) section available as a blog post here and below, [A Formal Look: Prediction, Estimation, Variance-Bias Tradeoff, and Overfitting](https://raw.githack.com/yaydede/Blog_posts/main/Lecture3aa.html). I belive it is the most important section and, if you want to see the difference of the book from other "100-page ML" books, you may want to check it.  
   
