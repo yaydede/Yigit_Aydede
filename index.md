@@ -20,7 +20,7 @@ I am a  professor in the Department of Economics at [Saint Mary's University](ht
   
 ## My Recent Articles
 ***
-My latest paper (October 2020), [Assortative preferences in choice of major](https://content.sciendo.com/view/journals/izajole/9/1/article-20200006.xml) is accepted by [IZA Journal of Labor Economics](https://content.sciendo.com/view/journals/izajole/izajole-overview.xml).  It's the first paper that documents the field-of-study homogamy in Canada and quantifies the assortative preferences between parents and children in choice of majors. The paper attributes this persisting assortative tendency to the information asymmetry across alternative majors built on by parents’ educational backgrounds within families.  Here is an interesting table that shows the assortative preferences in their children’s choice of major:  
+One of my latest papers (October 2020), [Assortative preferences in choice of major](https://content.sciendo.com/view/journals/izajole/9/1/article-20200006.xml) is accepted by [IZA Journal of Labor Economics](https://content.sciendo.com/view/journals/izajole/izajole-overview.xml).  It's the first paper that documents the field-of-study homogamy in Canada and quantifies the assortative preferences between parents and children in choice of majors. The paper attributes this persisting assortative tendency to the information asymmetry across alternative majors built on by parents’ educational backgrounds within families.  Here is an interesting table that shows the assortative preferences in their children’s choice of major:  
   
 ![](https://raw.githack.com/yaydede/Articles/main/FSA.png)
 
@@ -28,7 +28,8 @@ The paper uses a more disaggregated classification of majors than the table.  Ho
   
 My most recent articles are published in [IZA](https://www.iza.org) journals and online.  They can be found here at my [Google Scholar](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site.  
 
-- [Asymmetric Information and the Discount on Foreign-Acquired Degrees in Canada](https://content.sciendo.com/view/journals/izajodm/10/1/article-20190002.xml), 2019 IZA Journal of Development and Migration
+- [Why does field of study–occupation mismatch have no effect on wages in Turkish labour markets?](https://www.tandfonline.com/doi/abs/10.1080/00036846.2021.1937500), 2021, Applied Economics
+- [Asymmetric Information and the Discount on Foreign-Acquired Degrees in Canada](https://content.sciendo.com/view/journals/izajodm/10/1/article-20190002.xml), 2020 IZA Journal of Development and Migration
 - [Is the lower return to immigrants’ foreign schooling a postarrival problem in Canada?](https://link.springer.com/article/10.1186/s40176-016-0076-9), 2017 IZA Journal of Migration
 - [The cost of immigrants’ occupational mismatch and the effectiveness of postarrival policies in Canada](https://link.springer.com/article/10.1186/s40176-016-0057-z), 2016  IZA Journal of Migration
   
