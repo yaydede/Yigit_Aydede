@@ -11,7 +11,6 @@ I am a  professor in the Department of Economics at [Saint Mary's University](ht
 - Currently, I am serving at [Reimagining the Future for Nova Scotians](https://www.dal.ca/faculty/management/news-events/reimagine-ns.html) where academic and community experts are put together with access to the best research and data available and see what opportunities are possible for Nova Scotia.
 - I have developed and taught a course, [Introduction to Applied Machine Learning with R](https://raw.githack.com/yaydede/Teaching/main/MLPoster.pdf) in Winter 2020.  It is the first and only machine learning course in the [Sobey School of Business](https://www.smu.ca/academics/sobey/) that also has programming Labs. Moreover, I am at the program development committee of Master of Business Analytics (MBAN), where I will teach "MBAN 5610 Artificial Intelligence & Machine Learning".
 - I present and dissaminate my work using unconventional data and the latest methods in Machine Learning here in my blog post series. (See CBC NEWS - [How well have Canadians complied with COVID-19 restrictions? New data offers a glimpse](https://www.cbc.ca/news/canada/mobility-covid-restrictions-compliance-1.5956947))
-- My application for the promotion to Full Professorship is under review.
 
 ## CV
 ***
@@ -60,7 +59,7 @@ systems to issues related to the design of a better selection process for immigr
 ## Blog
 ***
 - The recent findings of our COVID-19 project in the NS COVID-19 Research Coalition are presented at UniBZ: [Dynamics of the COVID-19 Spread by Modified Graphical Network Analysis](https://www.unibz.it/en/events/138678-dynamics-of-the-covid-19-spread-by-modified-graphical-network-analysis)
-[![](https://cdn.mathpix.com/snip/images/T_4-srtunH5UwHhy6nP-L5ktO1DSoUm61U-hGWO8LW0.original.fullsize.png)](https://raw.githack.com/yaydede/Articles/main/Presentation1.pdf)
+[![](https://cdn.mathpix.com/snip/images/T_4-srtunH5UwHhy6nP-L5ktO1DSoUm61U-hGWO8LW0.original.fullsize.png)](https://raw.githack.com/yaydede/Articles/main/Presentation1.pdf) See the presenation (pdf) [here]()
 - [Working Draft - Mobility and COVID-19 Spread: Solving the Puzzle](https://raw.githack.com/yaydede/Blog_posts/main/paper_v12.html)
 - [Causal Predictors: What can be predicted from a national health survey? Is cancer one of them?](https://raw.githack.com/yaydede/MLportal/main/Presentation1.pdf) 
 - [Identifying the Predictors of COVID-19 Spread by Ensemble Learning](https://raw.githack.com/yaydede/Blog_posts/main/Tree_v7.html)
