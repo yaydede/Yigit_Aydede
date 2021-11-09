@@ -58,7 +58,7 @@ systems to issues related to the design of a better selection process for immigr
   
 ## Blog
 ***
-- The recent findings of our COVID-19 project in the NS COVID-19 Research Coalition are presented at UniBZ: [Dynamics of the COVID-19 Spread by Modified Graphical Network Analysis](https://www.unibz.it/en/events/138678-dynamics-of-the-covid-19-spread-by-modified-graphical-network-analysis).   See the presenation (pdf) [here]()
+- The recent findings of our COVID-19 project in the NS COVID-19 Research Coalition are presented at UniBZ: [Dynamics of the COVID-19 Spread by Modified Graphical Network Analysis](https://www.unibz.it/en/events/138678-dynamics-of-the-covid-19-spread-by-modified-graphical-network-analysis).   See the presenation (pdf) [here](https://rawcdn.githack.com/yaydede/Articles/8cd8d824a6cb6688e6da0b4fbfbfcd5f928aeca8/Przo2.pdf)
 [![](https://cdn.mathpix.com/snip/images/T_4-srtunH5UwHhy6nP-L5ktO1DSoUm61U-hGWO8LW0.original.fullsize.png)](https://raw.githack.com/yaydede/Articles/main/Presentation1.pdf)
 - [Working Draft - Mobility and COVID-19 Spread: Solving the Puzzle](https://raw.githack.com/yaydede/Blog_posts/main/paper_v12.html)
 - [Causal Predictors: What can be predicted from a national health survey? Is cancer one of them?](https://raw.githack.com/yaydede/MLportal/main/Presentation1.pdf) 
