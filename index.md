@@ -37,9 +37,8 @@ More details about my research including my current projects, working papers, pr
 
 ## My Book (coming soon)
 ***
-([Unedited content as of December 2019](https://raw.githack.com/yaydede/MLBook/main/index.html))
-  
-This book is a collection of my lecture and lab notes.  It is designed for business students in general and economics/statistics students in particular.  It's also useful for computer science students as they learn statistical backgrounds of self-learning algorithms.  I've used the chapters of this book in the 3-day [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) where most participants were academic economists.  So it is also beneficial for those who want to "link" machine learning to econometrics as a social scientist or an applied economist. 
+
+This book will be a collection of my lecture notes.  It is designed for business students in general and economics/statistics students in particular.  It's also useful for computer science students as they learn statistical backgrounds of self-learning algorithms.  I've used the chapters of this book in the 3-day [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) where most participants were academic economists.  So it is also beneficial for those who want to "link" machine learning to econometrics as a social scientist or an applied economist. 
   
 The latest version of my book is being copyedited currently and contains additional topics such as, **Dimension Reduction Methods, Classification with Rebalancing, Model Selection with Penalized Regresssions, Time-series Forecasting with Machine Learning, Graphical Network Anaylsis, Guide for Algorithmic Optimization with R**.  As you can expect, the book is growing in its content every other month.  
 
