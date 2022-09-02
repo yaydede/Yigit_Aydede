@@ -35,18 +35,16 @@ My most recent articles are published in [IZA](https://www.iza.org) journals and
   
 More details about my research including my current projects, working papers, presentations, and the papers that are under review can be found in my CV ([.html](https://raw.githack.com/yaydede/Credentials/main/CV3.html)) under "Scholarship".  
 
-## My Book (coming soon)
+## My Book - Tool Shed for Applied Data Analytics with R: Machine Learning & Beyond
 ***
 
 This book will be a collection of my lecture notes.  It is designed for business students in general and economics/statistics students in particular.  It's also useful for computer science students as they learn statistical backgrounds of self-learning algorithms.  I've used the chapters of this book in the 3-day [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) where most participants were academic economists.  So it is also beneficial for those who want to "link" machine learning to econometrics as a social scientist or an applied economist. 
   
-The latest version of my book is being copyedited currently and contains additional topics such as, **Dimension Reduction Methods, Classification with Rebalancing, Model Selection with Penalized Regresssions, Time-series Forecasting with Machine Learning, Graphical Network Anaylsis, Guide for Algorithmic Optimization with R**.  As you can expect, the book is growing in its content every other month.  
+The book is coming soon and being copyedited currently.  It contains additional topics such as, **Dimension Reduction Methods, Classification with Rebalancing, Model Selection with Penalized Regresssions, Nonparametrics Time-series Forecasting, Graphical Network Anaylsis, Guide for Algorithmic Optimization with R**.  The book is growing in its content every other month.  
 
-I am realy hoping that the book will be available before December 2022.  If you need sections from my book, please let me know. It will be online and free.  I will accept donations for pdf and downloadable versions. 
+I am realy hoping that the book will be available before December 2022.  A draft version of Tool Shed is availbale in my Github repo ... 
 
-I made one (unedited) section available as a blog post here and below, [A Formal Look: Prediction, Estimation, Variance-Bias Tradeoff, and Overfitting](https://raw.githack.com/yaydede/Blog_posts/main/Lecture3aa.html). I belive it is the most important section and, if you want to see the difference of the book from other "100-page ML" books, you may want to check it.  
-  
-![](https://raw.githack.com/yaydede/MLBook/main/coverpage2.png)
+The first draft can be found here: https://yaydede.github.io/ToolShed/
 
 ## Research Portal on Machine Learning for Social and Health Policies
 ***
