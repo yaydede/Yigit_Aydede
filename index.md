@@ -44,7 +44,7 @@ The book is coming soon and being copyedited currently.  It contains additional 
 
 I am realy hoping that the book will be available before December 2022.  A draft version of Tool Shed is availbale in my Github repo ... 
 
-The first draft can be found here: https://yaydede.github.io/ToolShed/
+The first draft can be found here: [Tool Shed](https://yaydede.github.io/ToolShed/)
 
 ## Research Portal on Machine Learning for Social and Health Policies
 ***
