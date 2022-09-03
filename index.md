@@ -32,7 +32,7 @@ My most recent articles [Google Scholar](https://scholar.google.ca/citations?use
   
 ## My Book - Tool Shed 
 ***
-[![](https://user-images.githubusercontent.com/32900916/188266922-9ed573c1-cc4f-4501-8deb-1487665a032c.png)]
+![](https://user-images.githubusercontent.com/32900916/188266922-9ed573c1-cc4f-4501-8deb-1487665a032c.png)
 This book will be a collection of my lecture notes.  It is designed for business students in general and economics/statistics students in particular.  It's also useful for computer science students as they learn statistical backgrounds of self-learning algorithms.  I've used the chapters of this book in the 3-day [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) where most participants were academic economists.  So it is also beneficial for those who want to "link" machine learning to econometrics as a social scientist or an applied economist. 
   
 The book is coming soon and being copyedited currently.  It contains additional topics such as, **Dimension Reduction Methods, Classification with Rebalancing, Model Selection with Penalized Regresssions, Nonparametrics Time-series Forecasting, Graphical Network Anaylsis, Guide for Algorithmic Optimization with R**.  The book is growing in its content every other month.  
