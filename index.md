@@ -47,9 +47,6 @@ The first draft can be found here: [Tool Shed](https://yaydede.github.io/ToolShe
 ***
 In 2018, in collaboration with two colleagues, I co-founded an educational research center to promote research and public education on social and health policies with machine learning applications, [Research Portal on Machine Learning for Social and Health Policy](http://www.ml-portal.com/). Under the umbrella of this research portal, we currently have ten researchers actively working on subjects that range from the prediction of chronic diseases using better surveillance systems to issues related to the design of a better selection process for immigration policies by providing policy makers with a recommender system.
   
-[Link to the website](https://sites.google.com/view/mlportal/home).      
-![](https://raw.githack.com/yaydede/MLportal/main/MLportal.png)
-  
 ## Blog
 ***
 - The recent findings of our COVID-19 project in the NS COVID-19 Research Coalition are presented at UniBZ: [Dynamics of the COVID-19 Spread by Modified Graphical Network Analysis](https://www.unibz.it/en/events/138678-dynamics-of-the-covid-19-spread-by-modified-graphical-network-analysis).   See the presenation (pdf) [here](https://rawcdn.githack.com/yaydede/Articles/8cd8d824a6cb6688e6da0b4fbfbfcd5f928aeca8/Przo2.pdf)
