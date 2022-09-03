@@ -12,13 +12,10 @@ I am a professor in the Department of Economics at [Saint Mary's University](htt
 - I have developed and taught a course, [Introduction to Applied Machine Learning with R](https://raw.githack.com/yaydede/Teaching/main/MLPoster.pdf) in Winter 2020.  It is the first and only machine learning course in the [Sobey School of Business](https://www.smu.ca/academics/sobey/) that also has programming Labs. Moreover, I will also be teaching "MBAN 5610 Artificial Intelligence & Machine Learning" at the new Master of Business Analytics (MBAN) program in March 2023.
 - I present and dissaminate my work using unconventional data and the latest methods in Machine Learning here in my blog post series. (See CBC NEWS - [How well have Canadians complied with COVID-19 restrictions? New data offers a glimpse](https://www.cbc.ca/news/canada/mobility-covid-restrictions-compliance-1.5956947))
 
-## CV
+## My Recent Articles & CV
 ***
-([.html](https://raw.githack.com/yaydede/Credentials/main/CV5.html))
-([.pdf](https://raw.githack.com/yaydede/Credentials/main/CV5.pdf)) 
+My CV cab found [here](https://raw.githack.com/yaydede/Credentials/main/CV5.pdf) 
   
-## My Recent Articles
-***
 One of my latest papers, [Assortative preferences in choice of major](https://content.sciendo.com/view/journals/izajole/9/1/article-20200006.xml) is the first paper that documents the field-of-study homogamy in Canada and quantifies the assortative preferences between parents and children in choice of majors. The paper attributes this persisting assortative tendency to the information asymmetry across alternative majors built on by parents’ educational backgrounds within families.  Here is an interesting table that shows the assortative preferences in their children’s choice of major:  
   
 ![](https://raw.githack.com/yaydede/Articles/main/FSA.png)
