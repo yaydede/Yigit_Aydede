@@ -56,11 +56,11 @@ In 2018, in collaboration with two colleagues, I co-founded an educational resea
 I teach my quantitative courses by using mostly R.  In each course, simulation exercises are required. I provide my simulations in four languages: **R, C++, Python**, and **Stata**.  All these scripts will be available soon in these repositories here.  In Econometrics, the focus is on "causality" based on replications of major papers/methods, while I teach forecasing and prediction in other courses.      
 
 - MBAN 5506 Machine Learning & AI
-- MFIN 6603 Applied Statistics and Data Analysis. 
-- MFIN 6609 Econometrics and Business Forecasting. 
-- ECON 4403 Econometrics. 
+- MFIN 6603 Applied Statistics and Data Analysis 
+- MFIN 6609 Econometrics and Business Forecasting 
+- ECON 4403 Econometrics 
 - ECON 4838 [Introduction to Applied Machine Learning with R.](https://raw.githack.com/yaydede/Teaching/main/Syllabus20.pdf) 
-- ECON 3302 Mathematical Economics. 
+- ECON 3302 Mathematical Economics 
 - MAEC 6848 Machine Learning in Economics
 
 Details are coming soon...
