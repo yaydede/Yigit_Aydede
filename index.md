@@ -2,14 +2,14 @@
 ***
 ![me](https://raw.githack.com/yaydede/Yigit_Aydede/main/Me.png)
   
-I am a  professor in the Department of Economics at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on genomics, unconventional data, chronic disease surveillance systems, and machine learning.  I teach data analytics courses at undergraduate and graduate levels. This Github page summarizes all my work including chapters from my never ending book, Machine Learning, my blogs about anything "useful", and my teaching.
+I am a professor in the Department of Economics at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on genomics, unconventional data, chronic disease surveillance systems, and machine learning.  I teach data analytics courses at undergraduate and graduate levels. This Github page summarizes all my work including a draft version my book, [Tool Shed](https://yaydede.github.io/ToolShed/), my blogs about anything "useful", and my teaching.
 
-- Currently, I am a visiting professor at Free University of Bozen - Bolzano ([UniBZ](https://www.unibz.it)).   
 - Starting July 1 in 2021, I am appointed to [Sobey Professorship in Economics](https://www.smu.ca/academics/sobey/sobey-professorships-and-chairs.html) for 5 years.
-- I am a founder member of [Research Portal on Machine Learning for Social and Health Policies](https://sites.google.com/view/mlportal/home), where, in collaboration with one of my colleagues, I have organized a 3-day online [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0), **Machine Learning for Economists and Applied Social Scientists**, between  July 20 and 22, followed by a 2-day [Webinar](https://sites.google.com/view/mlportal/online-events/webinar-series?authuser=0) series. More than 60 faculty and researchers attended these fee-based online lectures and more than 260 participants registered for the 2-day long webinar.
-- I am also the principal investigator of a team selected to the [Nova Scotia COVID19 Research Coalition](https://researchns.ca/2020/05/26/using-machine-learning-to-predict-viral-transmission-rates-in-halifax/). 
-- Currently, I am serving at [Reimagining the Future for Nova Scotians](https://www.dal.ca/faculty/management/news-events/reimagine-ns.html) where academic and community experts are put together with access to the best research and data available and see what opportunities are possible for Nova Scotia.
-- I have developed and taught a course, [Introduction to Applied Machine Learning with R](https://raw.githack.com/yaydede/Teaching/main/MLPoster.pdf) in Winter 2020.  It is the first and only machine learning course in the [Sobey School of Business](https://www.smu.ca/academics/sobey/) that also has programming Labs. Moreover, I am at the program development committee of Master of Business Analytics (MBAN), where I will teach "MBAN 5610 Artificial Intelligence & Machine Learning".
+- I just finished my one year term as a visiting professor at Free University of Bozen - Bolzano ([UniBZ](https://www.unibz.it)).   
+- I am a founder member of [Research Portal on Machine Learning for Social and Health Policies](https://sites.google.com/view/mlportal/home), where, in collaboration with one of my colleagues, we orginize scintific events.  I have organized a 3-day online [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0), **Machine Learning for Economists and Applied Social Scientists**, followed by a 2-day [Webinar](https://sites.google.com/view/mlportal/online-events/webinar-series?authuser=0) series. More than 60 faculty and researchers attended these fee-based online lectures and more than 260 participants registered for the 2-day long webinar in 2020.
+- We just finished (24-25 August 2022) our **1st Workshop of Applied Microeconomics**.  The program could be found [here](https://sites.google.com/view/mlportal/online-events/1st-workshop-of-applied-microeconomics?authuser=0)
+- As many other researchers, I've also worked on COVID-19.  I've just finished a project (as a PI) selected to the [Nova Scotia COVID19 Research Coalition](https://researchns.ca/2020/05/26/using-machine-learning-to-predict-viral-transmission-rates-in-halifax/). I've also served at [Reimagining the Future for Nova Scotians](https://www.dal.ca/faculty/management/news-events/reimagine-ns.html) where academic and community experts are put together to see what opportunities are possible for Nova Scotia.
+- I have developed and taught a course, [Introduction to Applied Machine Learning with R](https://raw.githack.com/yaydede/Teaching/main/MLPoster.pdf) in Winter 2020.  It is the first and only machine learning course in the [Sobey School of Business](https://www.smu.ca/academics/sobey/) that also has programming Labs. Moreover, I will also be teaching "MBAN 5610 Artificial Intelligence & Machine Learning" at the new Master of Business Analytics (MBAN) program in March 2023.
 - I present and dissaminate my work using unconventional data and the latest methods in Machine Learning here in my blog post series. (See CBC NEWS - [How well have Canadians complied with COVID-19 restrictions? New data offers a glimpse](https://www.cbc.ca/news/canada/mobility-covid-restrictions-compliance-1.5956947))
 
 ## CV
@@ -19,13 +19,13 @@ I am a  professor in the Department of Economics at [Saint Mary's University](ht
   
 ## My Recent Articles
 ***
-One of my latest papers, [Assortative preferences in choice of major](https://content.sciendo.com/view/journals/izajole/9/1/article-20200006.xml) is accepted by [IZA Journal of Labor Economics](https://content.sciendo.com/view/journals/izajole/izajole-overview.xml).  It's the first paper that documents the field-of-study homogamy in Canada and quantifies the assortative preferences between parents and children in choice of majors. The paper attributes this persisting assortative tendency to the information asymmetry across alternative majors built on by parents’ educational backgrounds within families.  Here is an interesting table that shows the assortative preferences in their children’s choice of major:  
+One of my latest papers, [Assortative preferences in choice of major](https://content.sciendo.com/view/journals/izajole/9/1/article-20200006.xml) is the first paper that documents the field-of-study homogamy in Canada and quantifies the assortative preferences between parents and children in choice of majors. The paper attributes this persisting assortative tendency to the information asymmetry across alternative majors built on by parents’ educational backgrounds within families.  Here is an interesting table that shows the assortative preferences in their children’s choice of major:  
   
 ![](https://raw.githack.com/yaydede/Articles/main/FSA.png)
 
 The paper uses a more disaggregated classification of majors than the table.  However, even this table shows the attraction of children to their parents’ majors evaluated by the observed distribution of all possible matches between parents and children normalized between 0 and 1.  
   
-My most recent articles are published in [IZA](https://www.iza.org) journals and online.  They can be found here at my [Google Scholar](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site.  
+My most recent articles can be found here at my [Google Scholar](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site.  
 
 - [Speeding Up for a Son among Immigrants in Canada](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Frdcu.be%2FcOII0&data=05%7C01%7Cyigit.aydede%40smu.ca%7C9f0dab420256465f479908da43754240%7C060b02ae57754360abbae2e29cca6627%7C1%7C0%7C637896468467357238%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oNiZrzUHZH26FiPmJ8JWdTcVO%2FowlsnpiABRQ1U8cTU%3D&reserved=0) 2022 Population Research and Policy Review
 - [Why does field of study–occupation mismatch have no effect on wages in Turkish labour markets?](https://www.tandfonline.com/doi/abs/10.1080/00036846.2021.1937500) 2021 Applied Economics
@@ -33,23 +33,22 @@ My most recent articles are published in [IZA](https://www.iza.org) journals and
 - [Is the lower return to immigrants’ foreign schooling a postarrival problem in Canada?](https://link.springer.com/article/10.1186/s40176-016-0076-9), 2017 IZA Journal of Migration
 - [The cost of immigrants’ occupational mismatch and the effectiveness of postarrival policies in Canada](https://link.springer.com/article/10.1186/s40176-016-0057-z), 2016  IZA Journal of Migration
   
-More details about my research including my current projects, working papers, presentations, and the papers that are under review can be found in my CV ([.html](https://raw.githack.com/yaydede/Credentials/main/CV3.html)) under "Scholarship".  
+More details about my research including my current projects, working papers, presentations, and the papers that are under review can be found in my CV. 
 
-## My Book - Tool Shed for Applied Data Analytics with R: Machine Learning & Beyond
+## My Book - Tool Shed 
 ***
 
 This book will be a collection of my lecture notes.  It is designed for business students in general and economics/statistics students in particular.  It's also useful for computer science students as they learn statistical backgrounds of self-learning algorithms.  I've used the chapters of this book in the 3-day [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) where most participants were academic economists.  So it is also beneficial for those who want to "link" machine learning to econometrics as a social scientist or an applied economist. 
   
 The book is coming soon and being copyedited currently.  It contains additional topics such as, **Dimension Reduction Methods, Classification with Rebalancing, Model Selection with Penalized Regresssions, Nonparametrics Time-series Forecasting, Graphical Network Anaylsis, Guide for Algorithmic Optimization with R**.  The book is growing in its content every other month.  
 
-I am realy hoping that the book will be available before December 2022.  A draft version of Tool Shed is availbale in my Github repo ... 
+I am realy hoping that the book will be available before December 2022.  A draft version of Tool Shed is available in my Github repo ... 
 
 The first draft can be found here: [Tool Shed](https://yaydede.github.io/ToolShed/)
 
 ## Research Portal on Machine Learning for Social and Health Policies
 ***
-In 2018, in collaboration with two colleagues, I co-founded an educational research center to promote research and public education on social and health policies with machine learning applications, [Research Portal on Machine Learning for Social and Health Policy](http://www.ml-portal.com/). Under the umbrella of this research portal, we currently have ten researchers actively working on subjects that range from the prediction of chronic diseases using better surveillance
-systems to issues related to the design of a better selection process for immigration policies by providing policy makers with a recommender system.
+In 2018, in collaboration with two colleagues, I co-founded an educational research center to promote research and public education on social and health policies with machine learning applications, [Research Portal on Machine Learning for Social and Health Policy](http://www.ml-portal.com/). Under the umbrella of this research portal, we currently have ten researchers actively working on subjects that range from the prediction of chronic diseases using better surveillance systems to issues related to the design of a better selection process for immigration policies by providing policy makers with a recommender system.
   
 [Link to the website](https://sites.google.com/view/mlportal/home).      
 ![](https://raw.githack.com/yaydede/MLportal/main/MLportal.png)
@@ -70,41 +69,17 @@ systems to issues related to the design of a better selection process for immigr
   
 ## Teaching
 ***
-I teach my quantitative courses by using mostly R.  In each chapter/subject in my Econometrics course, a simulation exercise is required, which is similar to [Principle of Econometrics 5th ed. (Carter Hill et al.)](https://www.wiley.com/en-ca/Principles+of+Econometrics%2C+5th+Edition-p-9781119320944).  I provide my simulations in four languages: **R, C++, Python**, and **Stata**.  All these scripts will be available soon in these repositories here.  In Econometrics, the focus is on "causality" based on replications of major papers/methods, while I teach forecasing and prediction in my Machine Learning course.      
+I teach my quantitative courses by using mostly R.  In each course, simulation exercises are required. I provide my simulations in four languages: **R, C++, Python**, and **Stata**.  All these scripts will be available soon in these repositories here.  In Econometrics, the focus is on "causality" based on replications of major papers/methods, while I teach forecasing and prediction in other courses.      
 
+- MBAN 5506 Machine Learning & AI
 - MFIN 6603 Applied Statistics and Data Analysis. 
 - MFIN 6609 Econometrics and Business Forecasting. 
 - ECON 4403 Econometrics. 
 - ECON 4838 [Introduction to Applied Machine Learning with R.](https://raw.githack.com/yaydede/Teaching/main/Syllabus20.pdf) 
 - ECON 3302 Mathematical Economics. 
-- ECON 3319 Public Finance. 
-- ECON 4498 Research Seminar. 
+- MAEC 6848 Machine Learning in Economics
 
 Details are coming soon...
-  
-## Summer School
-***
-The Online [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) for **Machine Learning for Economists and Applied Social Scientists**, between  July 20 and 22, followed by a 2-day [Webinar](https://sites.google.com/view/mlportal/online-events/webinar-series?authuser=0) series.
-
-The course combines both real data and theoretical background to enable researchers to gain practical experience in analysing a wide variety of data and econometric problems. In this course, participants will learn the fundamentals of machine learning and their implementation, recalling the fundamental statistical concepts at the heart of modern learning techniques. Participants will learn the differences between causal and predictive analyses and their relative merits, as well as their use in applied social sciences.
-
-**July 20, Monday**
-- Session 1 (10am - 12:30pm): Causal vs. Predictive Models, Translation of Concepts Used in Machine Learning for Social Scientists - Mutlu Yuksel. 
-- Session 2 (2pm - 4:30pm): Overfitting, Model Selection, and Variance-Bias Trade-Off. - Yigit Aydede. 
-- R-Session (5:30pm - 7pm): Additional training in R - voluntary - Weiyi Li. 
-  
-**July 21, Tuesday**
-- Session 1 (10am- 12:30pm): Regressions and Linear Classifiers, Nonparameteric Models, kNN. - Yigit Aydede. 
-- Session 2 (2pm -4:30pm): Grid Search with Cross-Validation and Bootstrapping. - Yigit Aydede. 
-- R-Session (5:30pm - 7pm): Additional training in R - voluntary - Weiyi Li. 
-  
-**July 22, Wednesday**
-- Session 1 (10am- 12:30pm): Classification and Regression Trees, Random Forests, Boosting, Bagging. - Yigit Aydede. 
-- Session 2 (2pm -4:30pm): Penalized Regression Models: Lasso, Ridge, Elastics Net, and Adaptive Lasso. - Yigit Aydede. 
-- R-Session (5:30pm - 7pm): Training in Data Revisions and Now-casting of macroeconomics series - Andrea Guisto. 
-  
-The video lectures, scipts, presentations, and other course documents will be available here very soon. 
-
   
 #### Support or Contact
 ***
