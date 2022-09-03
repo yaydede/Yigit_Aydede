@@ -14,7 +14,7 @@ I am a professor in the Department of Economics at [Saint Mary's University](htt
 
 ## My Recent Articles & CV
 ***
-My recent CV can be found [here](https://raw.githack.com/yaydede/Credentials/main/CV5.pdf).  Here are my most recent articles [Google Scholar](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en):  
+My recent CV can be found [here](https://raw.githack.com/yaydede/Credentials/main/CV5.pdf).  Here are my most recent articles ([Google Scholar](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en)):  
 
 - [Speeding Up for a Son among Immigrants in Canada](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Frdcu.be%2FcOII0&data=05%7C01%7Cyigit.aydede%40smu.ca%7C9f0dab420256465f479908da43754240%7C060b02ae57754360abbae2e29cca6627%7C1%7C0%7C637896468467357238%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oNiZrzUHZH26FiPmJ8JWdTcVO%2FowlsnpiABRQ1U8cTU%3D&reserved=0) 2022 Population Research and Policy Review.
 - [Why does field of study–occupation mismatch have no effect on wages in Turkish labour markets?](https://www.tandfonline.com/doi/abs/10.1080/00036846.2021.1937500) 2021 Applied Economics.
