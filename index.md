@@ -14,7 +14,7 @@ I am a professor in the Department of Economics at [Saint Mary's University](htt
 
 ## My Recent Articles & CV
 ***
-My CV cab found [here](https://raw.githack.com/yaydede/Credentials/main/CV5.pdf) 
+My recent CV cab be found [here](https://raw.githack.com/yaydede/Credentials/main/CV5.pdf) 
   
 One of my latest papers, [Assortative preferences in choice of major](https://content.sciendo.com/view/journals/izajole/9/1/article-20200006.xml) is the first paper that documents the field-of-study homogamy in Canada and quantifies the assortative preferences between parents and children in choice of majors. The paper attributes this persisting assortative tendency to the information asymmetry across alternative majors built on by parents’ educational backgrounds within families.  Here is an interesting table that shows the assortative preferences in their children’s choice of major:  
   
