@@ -2,7 +2,7 @@
 ***
 ![me](https://raw.githack.com/yaydede/Yigit_Aydede/main/Me.png)
   
-I am a professor in the Department of Economics at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on genomics, unconventional data, chronic disease surveillance systems, and machine learning.  I teach data analytics courses at undergraduate and graduate levels. This Github page summarizes all my work including a draft version my book, [Tool Shed](https://yaydede.github.io/ToolShed/), my blogs about anything "useful", and my teaching.
+I am a professor in the Department of Economics at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on genomics, unconventional data, chronic disease surveillance systems, and machine learning.  I teach data analytics courses at undergraduate and graduate levels. This Github page summarizes all my work including a draft version of my book, [Tool Shed](https://yaydede.github.io/ToolShed/), my recent published articles, blogs about "anything useful", and teaching.
 
 - Starting July 1 in 2021, I am appointed to [Sobey Professorship in Economics](https://www.smu.ca/academics/sobey/sobey-professorships-and-chairs.html) for 5 years.
 - I just finished my one year term as a visiting professor at Free University of Bozen - Bolzano ([UniBZ](https://www.unibz.it)).   
