@@ -27,11 +27,11 @@ My recent CV can be found [here](https://raw.githack.com/yaydede/Credentials/mai
 ***
 ![image](https://cdn.mathpix.com/snip/images/5N0Ih1wg3cQDSxBht8oEgjEAi0DXVdyMbuzT65965_Y.original.fullsize.png)
   
-This book (The first draft can be found here: [Tool Shed](https://yaydede.github.io/ToolShed/)) is a collection of my lecture notes.  It is designed for business students in general and economics/statistics students in particular.  It's also useful for computer science students as they learn statistical backgrounds of self-learning algorithms.  I've used the chapters of this book in the 3-day [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) where most participants were academic economists.  So it is also beneficial for those who want to "link" machine learning to econometrics as a social scientist or an applied economist. 
+This book (a draft version: [Tool Shed](https://yaydede.github.io/ToolShed/)) is a collection of my lecture notes.  It is designed for business students in general and economics/statistics students in particular.  It's also useful for computer science students as they learn statistical backgrounds of self-learning algorithms.  I've used the chapters of this book in the 3-day [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) where most participants were academic economists.  So it is also beneficial for those who want to "link" machine learning to econometrics as a social scientist or an applied economist. 
   
 The book is coming soon and being copyedited currently.  It contains additional topics such as, **Dimension Reduction Methods, Classification with Rebalancing, Model Selection with Penalized Regresssions, Nonparametrics Time-series Forecasting, Graphical Network Anaylsis, Guide for Algorithmic Optimization with R**.  The book is growing in its content every other month.  
 
-I am realy hoping that the book will be available before December 2022.  A draft version of Tool Shed is available in my Github repo.  Any comment is well appreciated ... 
+I am realy hoping that the book will be available before December 2022.  A draft version of Tool Shed is available in my Github repo.  Any comment or correction would be well appreciated ... 
 
 ## Research Portal on Machine Learning for Social and Health Policies
 ***
