@@ -1,4 +1,4 @@
-## About
+## Yigit Aydede
 ***
 ![me](https://raw.githack.com/yaydede/Yigit_Aydede/main/Me.png)
   
