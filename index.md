@@ -59,7 +59,7 @@ I teach my quantitative courses by using mostly R.  In each course, simulation e
 - MFIN 6603 Applied Statistics and Data Analysis 
 - MFIN 6609 Econometrics and Business Forecasting 
 - ECON 4403 Econometrics 
-- ECON 4838 [Introduction to Applied Machine Learning with R.](https://raw.githack.com/yaydede/Teaching/main/Syllabus20.pdf) 
+- ECON 4838 Introduction to Applied Machine Learning with R 
 - ECON 3302 Mathematical Economics 
 - MAEC 6848 Machine Learning in Economics
 
