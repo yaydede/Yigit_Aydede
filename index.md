@@ -25,7 +25,7 @@ My recent CV can be found [here](https://raw.githack.com/yaydede/Credentials/mai
   
 ## My Book - Tool Box 
 ***
-![image](https://cdn.mathpix.com/snip/images/5N0Ih1wg3cQDSxBht8oEgjEAi0DXVdyMbuzT65965_Y.original.fullsize.png)
+![image](https://cdn.mathpix.com/snip/images/MJvBOjXHyB3E3ZZMocAO1gIszxL94_hjaRcrAwTRx94.original.fullsize.png)
   
 This book (a draft version: [Tool Box](https://yaydede.github.io/ToolShed/)) is a collection of my lecture notes.  It is designed for business students in general and economics/statistics students in particular.  It's also useful for computer science students as they learn statistical backgrounds of self-learning algorithms.  I've used the chapters of this book in the 3-day [Summer School](https://sites.google.com/view/mlportal/online-events?authuser=0) where most participants were academic economists.  So it is also beneficial for those who want to "link" machine learning to econometrics as a social scientist or an applied economist. 
   
