@@ -1,4 +1,4 @@
-## About
+## Yigit Aydede
 ***
 ![](https://cdn.mathpix.com/snip/images/MJvBOjXHyB3E3ZZMocAO1gIszxL94_hjaRcrAwTRx94.original.fullsize.png)
   
