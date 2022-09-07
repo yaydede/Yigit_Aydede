@@ -1,2 +1,2 @@
-# Yigit_Aydede
+# Yigit Aydede
 Personal Github Repository
